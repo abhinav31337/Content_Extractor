@@ -12,9 +12,13 @@ In order to run the content extractor on command line please type :
 **Prerequisite** : NLTK, Sklearn, BeautifulSoup if not installed please install these packages using pip or any other method.
 
 If even after installing NLTK following errors comes please do the their respective dowloads using nltk only.
+
 Resource **punkt** not found.
+
   -> nltk.download('punkt')
+  
 Resource **stopwords** not found.
+
   -> nltk.download(’stopwords’)
   
 Basic workflow of the code :
