@@ -3,6 +3,7 @@
 ***********************************************************************************************************************
 
 In order to run the content extractor on command line please type :
+
 **python content_extractor.py -i <inputfile_name>**
 
 **inputfile_name** : name of the file containing all the links one per line content of which you want to get extracted.
