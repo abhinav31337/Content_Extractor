@@ -14,14 +14,21 @@ In order to run the content extractor on command line please type :
 If even after installing NLTK following errors comes please do the their respective dowloads using nltk only.
 
 Resource **punkt** not found.
+
   -> nltk.download('punkt')
   
 Resource **stopwords** not found.
+
   -> nltk.download(’stopwords’)
   
 Basic workflow of the code :
+
 **1.** Extracting first all the text from webpage
+
 **2.** Picking up main theme of the page
+
 **3.** Retreiving Relavant text based on theme of the page
+
+***********************************************************************************************************************
 
 
